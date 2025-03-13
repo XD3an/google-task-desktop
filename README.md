@@ -8,7 +8,7 @@
 
 ## Usage
 
-### 1.環境建立
+### 1. 環境建立
 
 因為 Google Task List API 需要使用 Google Cloud 專案的 OAuth 2.0 用戶端 ID，所以在使用前，請先建立 Google Cloud 專案，並啟用 Google Task List API。
 
@@ -29,7 +29,7 @@
 
     - **將下載的 JSON 檔案儲存為 ./src/config/credentials.json。**
 
-### 2.使用方式
+### 2. 使用方式
 
 1. 安裝依賴套件
 
