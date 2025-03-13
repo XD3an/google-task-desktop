@@ -1,0 +1,6 @@
+**/__pycache__/*
+**/config/*
+**/token.json
+**/build/*
+**/dist/*
+**/Release/*
